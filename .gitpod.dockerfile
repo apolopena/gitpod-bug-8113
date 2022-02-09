@@ -1,4 +1,4 @@
-FROM gitpod/workspace-mysql:latest
+FROM gitpod/workspace-mysql:2022-02-04-10-54-10
 
 # optional: use a custom apache config.
 COPY apache.conf /etc/apache2/apache2.conf
